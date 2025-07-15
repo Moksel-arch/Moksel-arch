@@ -17,8 +17,10 @@
   -secure data analytics pipelines, or visualizations for cyber incident analysis.
   
 - 📫 How to reach me ...
-  -Drop me an email at mokgadi9939@gmail.com or
-  -connect with me on Twitter/X at .https://x.com/Moks9939.
+  -Drop me an email at mokgadi9939@gmail.com
+  
+  -connect with me on Twitter/X at .https://x.com/Moks9939
+  
   -You can also open an issue on any of my repos!
   
 - 😄 Pronouns: ...
