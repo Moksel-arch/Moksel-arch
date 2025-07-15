@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Moksel-arch:
+- 👋 Hi, I’m Mokgadi Selepe:
   I’m a passionate developer with a knack for blending code with creativity, especially in projects inspired by architecture and design.
   I love building tools and applications that make complex systems beautiful and functional.
 
@@ -17,7 +17,7 @@
   -secure data analytics pipelines, or visualizations for cyber incident analysis.
   
 - 📫 How to reach me ...
-  -Drop me an email at exmoks@gmail.com or
+  -Drop me an email at mokgadi9939@gmail.com or
   -connect with me on Twitter/X at .https://x.com/Moks9939.
   -You can also open an issue on any of my repos!
   
