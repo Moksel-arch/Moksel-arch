@@ -30,6 +30,7 @@ Get in Touch
 - Email: mokgadi9939@gmail.com
 - Twitter/X: https://x.com/Moks9939
 - GitHub: Open an issue on any of my repos!
+- Linkedin: www.linkedin.com/in/mokgadi-selepe-265875b7
 
 Community Note
 
