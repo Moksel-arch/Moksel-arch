@@ -1,38 +1,41 @@
-- 👋 Hi, I’m Mokgadi Selepe:
-  I’m a passionate developer with a knack for blending code with creativity, especially in projects inspired by architecture and design.
-  I love building tools and applications that make complex systems beautiful and functional.
+Here's the updated introduction with AWS cloud computing:
 
-- 👀 I’m interested in ...
-  -Exploring the intersection of data science and cybersecurity,
-  -building secure data pipelines,
-  -leveraging machine learning to detect and mitigate cyber threats.
-    
-- 🌱 I’m currently learning ...
-  -Advanced data science techniques, including machine learning models like gradient boosting and deep learning for predictive analytics,
-  -alongside cybersecurity skills like ethical hacking, anomaly detection, and intrusion detection systems.
-  
-- 💞️ I’m looking to collaborate on ...
-  -Open-source projects that combine data science and cybersecurity,
-  -such as machine learning models for threat detection,
-  -secure data analytics pipelines, or visualizations for cyber incident analysis.
-  
-- 📫 How to reach me ...
-  -Drop me an email at mokgadi9939@gmail.com
-  
-  -connect with me on Twitter/X at .https://x.com/Moks9939
-  
-  -You can also open an issue on any of my repos!
-  
-- 😄 Pronouns: ...
-  -She/Miss/Lady/Woman
-  
-- 😄 **Community Note**:
-  -Always happy to connect with data science and cybersecurity enthusiasts!
-  
-- ⚡ Fun fact: ...
-  -I once used a machine learning model to predict Wi-Fi vulnerabilities in a CTF challenge and accidentally discovered a neighbor’s unsecured network!
+Hi, I'm Mokgadi Selepe 👋
 
-<!---
-Moksel-arch/Moksel-arch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate developer with a knack for blending code with creativity, especially in projects inspired by architecture and design. I love building tools and applications that make complex systems beautiful and functional.
+
+Interests
+
+- Exploring the intersection of data science and cybersecurity
+- Building secure data pipelines
+- Leveraging machine learning to detect and mitigate cyber threats
+- Deploying scalable and secure solutions on AWS cloud infrastructure
+
+Current Focus
+
+- Learning advanced data science techniques, including machine learning models like gradient boosting and deep learning for predictive analytics
+- Developing cybersecurity skills like ethical hacking, anomaly detection, and intrusion detection systems
+- Exploring AWS services like EC2, RDS, and Lambda for cloud-based data science and cybersecurity projects
+
+Collaboration Opportunities
+
+- Open-source projects that combine data science and cybersecurity
+- Machine learning models for threat detection
+- Secure data analytics pipelines
+- Visualizations for cyber incident analysis
+- Cloud-based solutions using AWS services
+
+Get in Touch
+
+- Email: mokgadi9939@gmail.com
+- Twitter/X: https://x.com/Moks9939
+- GitHub: Open an issue on any of my repos!
+
+Community Note
+
+- Always happy to connect with data science and cybersecurity enthusiasts!
+- Pronouns: She/Miss/Lady/Woman
+
+Fun Fact
+
+- I once used a machine learning model to predict Wi-Fi vulnerabilities in a CTF challenge and accidentally discovered a neighbor's unsecured network!
