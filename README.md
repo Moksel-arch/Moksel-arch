@@ -1,6 +1,6 @@
 Here's the updated introduction with AWS cloud computing:
 
-Hi, I'm Mokgadi Selepe 👋
+Hi, I'm Mokgadi Selepe 
 
 I'm a passionate developer with a knack for blending code with creativity, especially in projects inspired by architecture and design. I love building tools and applications that make complex systems beautiful and functional.
 
