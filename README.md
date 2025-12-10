@@ -1,4 +1,4 @@
-**About: Mokgadi Selepe**
+# **About: Mokgadi Selepe**
 
 Hi, I'm Mokgadi Selepe 
 
