@@ -19,7 +19,7 @@ Current Focus
 
 Collaboration Opportunities
 
-- Open-source projects that combine data science and cybersecurity
+- Open-source projects that combine data science and cybersecurity, lately with cloud practitioners..
 - Machine learning models for threat detection
 - Secure data analytics pipelines
 - Visualizations for cyber incident analysis
